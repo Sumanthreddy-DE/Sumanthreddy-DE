@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sumanthreddy-DE
-- 👀 I’m interested in Machine Learning in Materials Science
-- 🌱 I’m currently learning Solidity and Pandas
+- 👋 Hi, I’m @Sumanthreddy
+- 👀 I’m interested in implementing & integrating Machine Learning in Mechanical Applications
+- 🌱 I’m currently learning Solidity and TensorFlow
 - 💞️ I’m looking to collaborate on implementing Machine Learning Algorithms in Mechanics or Materials Science
 - 📫 How to reach me : Mail: Sumanthreddy.de@gmail.com
 - ⚡ Fun fact: I am not an Otaku anymore, I am just a Weeb 😄
