@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumanthreddy
+- 👋 Hi, I’m Sumanthreddy
 - 👀 I’m interested in implementing & integrating Machine Learning in Mechanical Applications
 - 🌱 I’m currently learning Solidity and TensorFlow
 - 💞️ I’m looking to collaborate on implementing Machine Learning Algorithms in Mechanics or Materials Science
