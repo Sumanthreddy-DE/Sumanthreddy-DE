@@ -22,10 +22,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
 ---
 
@@ -35,14 +35,13 @@
   <sub>Python template for building and training feed-forward neural networks.</sub>
 - [Predicting-the-Bulk-Modulus-of-Inorganic-Crystals](https://github.com/Sumanthreddy-DE/Predicting-the-Bulk-Modulus-of-Inorganic-Crystals)  
   <sub>Machine learning approach to predict the bulk modulus of inorganic crystals.</sub>
+- [Named-Entity-Recognition](https://github.com/Sumanthreddy-DE/Named-Entity-Recognition)  
+  <sub>Named Entity Recognition on synthetic text data using Python.</sub>
 - [Simulation-of-Diffusion-using-Finite-Differences](https://github.com/Sumanthreddy-DE/Simulation-of-Diffusion-using-Finite-Differences)  
   <sub>Numerical simulation of diffusion processes using finite difference methods.</sub>
 - [Topology-Optimization-of-a-Reservoir](https://github.com/Sumanthreddy-DE/Topology-Optimization-of-a-Reservoir)  
   <sub>Python code for topology optimization in reservoir engineering.</sub>
-- [Streamlit-project](https://github.com/Sumanthreddy-DE/Streamlit-project)  
-  <sub>Interactive dashboards and web apps using Streamlit.</sub>
-- [Named-Entity-Recognition](https://github.com/Sumanthreddy-DE/Named-Entity-Recognition)  
-  <sub>Named Entity Recognition on synthetic text data using Python.</sub>
+
 
 ---
 
