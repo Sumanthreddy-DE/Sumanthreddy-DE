@@ -48,7 +48,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumanthreddy-DE&show_icons=true&theme=radical" alt="Sumanthreddy-DE's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanthreddy-DE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
