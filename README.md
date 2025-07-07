@@ -11,8 +11,8 @@
 ### 👀 About Me
 
 - 🔭 I’m passionate about **integrating Machine Learning in Mechanical and Materials Science applications**
-- 🌱 Currently learning **Solidity** and **TensorFlow**
-- 🤝 Looking to collaborate on **ML Algorithms in Mechanics or Materials Science**
+- 🌱 Currently learning **Transformers** and **TensorFlow**
+- 🤝 Looking to collaborate on **ML Algorithms in Mechanics & Dynamics or Materials Science**
 - 📫 How to reach me: [Email](mailto:Sumanthreddy.de@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sumanthreddys)
 - ⚡ Fun fact: I am not an Otaku anymore, I am just a Weeb 😄
 
