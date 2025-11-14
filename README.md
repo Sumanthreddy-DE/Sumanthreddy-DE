@@ -49,7 +49,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanthreddy-DE&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanthreddy-DE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
