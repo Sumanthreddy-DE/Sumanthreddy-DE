@@ -11,7 +11,7 @@
 - Interested in applying **ML to computational mechanics, materials science, and engineering automation**
 - Experience with **NX Open API** for CAD automation and data extraction workflows
 - Background in **Mechanical Engineering** with a focus on numerical methods and optimization
-
+⚡ Fun fact: I am not an Otaku anymore, I am just a Weeb 😄
 ---
 
 ### Languages & Tools
