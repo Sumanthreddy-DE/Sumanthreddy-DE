@@ -76,10 +76,10 @@
   then uncomment and replace YOUR-VERCEL-URL below:
 
 <p align="center">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=Sumanthreddy-DE&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-hb6eijnl1-sumanths-projects-511ba897.vercel.app/api?username=Sumanthreddy-DE&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Sumanthreddy-DE&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-hb6eijnl1-sumanths-projects-511ba897.vercel.app/api/top-langs/?username=Sumanthreddy-DE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 -->
 
