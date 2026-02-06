@@ -70,18 +70,12 @@
 
 ### GitHub Stats
 
-<!-- 
-  TO ENABLE TOP LANGUAGES & GITHUB STATS CARDS:
-  Deploy your own github-readme-stats on Vercel (see instructions in repo README),
-  then uncomment and replace YOUR-VERCEL-URL below:
-
 <p align="center">
   <img src="https://github-readme-stats-omega-lemon.vercel.app/api?username=Sumanthreddy-DE&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-omega-lemon.vercel.app/api/top-langs/?username=Sumanthreddy-DE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
--->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sumanthreddy-DE&theme=radical" alt="GitHub Streak Stats" />
@@ -90,6 +84,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanthreddy-DE&theme=redical" alt="Contribution Graph" />
 </p>
+
 
 ---
 
