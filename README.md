@@ -10,11 +10,11 @@
 
 ### About Me
 
-- 🎓 Scientific ML & Computational Engineer, MSc Computational Engineering, **FAU Erlangen-Nürnberg**
+- 🎓 MSc Computational Engineering, **FAU Erlangen-Nürnberg**
 - 🔬 Building **SimReady** (AI-assisted FEA pre-processing) and **Physics-Informed Neural Networks** for composite material interfaces (thesis area)
-- 🛠️ Also ship AI & automation tooling : **cortex**, **ai-eng-tracker**, **anny-booking-bot**
+- 🛠️ Also ship AI & automation tooling : **cortex**, **anny-booking-bot**
 - 📍 Open to **Scientific ML / Computational Engineer (Berechnung)** roles in DACH — available from **June 2026**
-- 🌱 Off-screen: meditation, yoga, cooking, travel
+- 🌱 When not building, just weebing
 
 ---
 
