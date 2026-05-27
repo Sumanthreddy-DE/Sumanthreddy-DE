@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sumanthreddy-DE">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Scientific+ML+%26+Computational+Engineer;Physics-Informed+Neural+Networks+%7C+FEM+%7C+Materials;...also+shipping+AI+%26+automation+tools" alt="typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=ML+%26+Computational+Engineer;Physics-Informed+Neural+Networks+%7C+FEM+%7C+Materials;...also+shipping+AI+%26+automation+tools" alt="typing tagline" />
   </a>
 </p>
 
@@ -10,9 +10,9 @@
 
 ### About Me
 
-- 🎓 ML & Computational Engineer — MSc Computational Engineering, **FAU Erlangen-Nürnberg**
+- 🎓 Scientific ML & Computational Engineer, MSc Computational Engineering, **FAU Erlangen-Nürnberg**
 - 🔬 Building **SimReady** (AI-assisted FEA pre-processing) and **Physics-Informed Neural Networks** for composite material interfaces (thesis area)
-- 🛠️ Also ship AI & automation tooling — **cortex**, **ai-eng-tracker**, **anny-booking-bot**
+- 🛠️ Also ship AI & automation tooling : **cortex**, **ai-eng-tracker**, **anny-booking-bot**
 - 📍 Open to **Scientific ML / Computational Engineer (Berechnung)** roles in DACH — available from **June 2026**
 - 🌱 Off-screen: meditation, yoga, cooking, travel
 
