@@ -12,7 +12,7 @@
 
 - 🎓 Scientific ML & Computational Engineer — MSc Computational Engineering, **FAU Erlangen-Nürnberg**
 - 🔬 Building **SimReady** (AI-assisted FEA pre-processing) and **Physics-Informed Neural Networks** for composite material interfaces (thesis area)
-- 🛠️ Also ship AI & automation tooling — **cortex**, **ai-eng-tracker**, **sprachlog**
+- 🛠️ Also ship AI & automation tooling — **cortex**, **ai-eng-tracker**, **anny-booking-bot**
 - 📍 Open to **Scientific ML / Computational Engineer (Berechnung)** roles in DACH — available from **June 2026**
 - 🌱 Off-screen: meditation, yoga, cooking, travel
 
@@ -69,8 +69,8 @@
 - **[ai-eng-tracker](https://github.com/Sumanthreddy-DE/ai-eng-tracker)**
   <br><sub>Automated weekly newsletter digest + AI/ML hiring & funding intel scraper across Europe.</sub>
 
-- **[sprachlog](https://github.com/Sumanthreddy-DE/sprachlog)**
-  <br><sub>One-tap German phone-call transcriber — transcribe, summarise, and save to Google Drive.</sub>
+- **[anny-booking-bot](https://github.com/Sumanthreddy-DE/anny-booking-bot)**
+  <br><sub>Daily booking-calendar automation: headless Playwright scraper + Gmail SMTP digest, scheduled via GitHub Actions (pytest-tested, CI).</sub>
 
 </td>
 </tr>
