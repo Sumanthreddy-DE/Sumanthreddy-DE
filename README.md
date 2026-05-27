@@ -13,7 +13,7 @@
 - 🎓 MSc Computational Engineering, **FAU Erlangen-Nürnberg**
 - 🔬 Building **SimReady** (AI-assisted FEA pre-processing) and **Physics-Informed Neural Networks** for composite material interfaces (thesis area)
 - 🛠️ Also ship AI & automation tooling : **cortex**, **anny-booking-bot**
-- 📍 Open to **Scientific ML / Computational Engineer (Berechnung)** roles in DACH — available from **June 2026**
+- 📍 Open to **Scientific ML / Computational Engineer (Berechnung)** roles in DACH, available from **June 2026**
 - 🌱 When not building, just weebing
 
 ---
