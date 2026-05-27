@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sumanthreddy-DE">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=ML+%26+Computational+Engineer;Physics-Informed+Neural+Networks+%7C+FEM+%7C+Materials;...also+shipping+AI+%26+automation+tools" alt="typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=ML+%26+Computational+Engineer;Neural+Networks+%7C+FEM+%7C+Materials;...also+shipping+AI+%26+automation+tools" alt="typing tagline" />
   </a>
 </p>
 
