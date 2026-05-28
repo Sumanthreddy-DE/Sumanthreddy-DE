@@ -52,8 +52,8 @@
 - **[SimReady](https://github.com/Sumanthreddy-DE/simready)**
   <br><sub>AI-assisted FEA pre-processing: STEP geometry-quality analysis, safe healing, and rule + ML readiness reports (terminal / JSON / HTML).</sub>
 
-- **[Topology Optimization of a Reservoir](https://github.com/Sumanthreddy-DE/Topology-Optimization-of-a-Reservoir)**
-  <br><sub>Density-based topology optimization in Python.</sub>
+- **[Predicting Bulk Modulus of Inorganic Crystals](https://github.com/Sumanthreddy-DE/Predicting-the-Bulk-Modulus-of-Inorganic-Crystals)**
+  <br><sub>ML prediction of inorganic-crystal bulk modulus — Matminer/Magpie features, regression + feature-selection model comparison (scikit-learn).</sub>
 
 - **[Peak Power Minimization](https://github.com/Sumanthreddy-DE/Peak-Power-Minimization)**
   <br><sub>Optimization under multiple harmonic loads.</sub>
