@@ -43,8 +43,11 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
   NX-Constraints-training, cortex, ai-eng-tracker. GitHub exposes no CLI or API for pinning
 - Account sidebar fields (name, bio, location, blog) still unset: the `gh` token lacks the `user`
   scope. Run `gh auth refresh -h github.com -s user`, then apply
-- Email KTmfk to confirm publishing the two Hiwi repos is acceptable. Until answered, hold the
-  pin on NX-Constraints-training
+- Email KTmfk to confirm publishing the two Hiwi repos (NX-Constraints-training,
+  Export-NX-CAD-files-to-CREO) is acceptable. Deferred by the user on 2026-09-01; the plan
+  advised holding the NX-Constraints-training pin until answered, but the user chose the
+  balanced pin set including it, accepting the risk knowingly. Both repos were already public
+  before this session, so the sweep did not increase exposure
 - github-readme-stats stays public: it is a fork, GitHub does not allow forks to be made private,
   and the profile README's stats cards are served from a Vercel deployment tied to it
 
@@ -60,3 +63,9 @@ the token has the `user` scope.
 - Archived repos reject every setting change including visibility. Unarchive, change, re-archive
 - Production-Engineering-Data-Automation is deliberately out of scope by user decision and still
   serves another person's named code publicly
+- Seven repos (NX-Constraints-training, Export-NX-CAD-files-to-CREO,
+  Topology-Optimization-of-a-Reservoir, ai-eng-tracker, anny-booking-bot, Master-Thesis,
+  Sumanthreddy-DE.github.io) have NO local clone under Projects/. The 2026-09-01 commits were
+  made in session-temp scratchpad clones that are now gone. Clone fresh before editing them
+- ai-eng-tracker and anny-booking-bot default to branch `master`, not `main`. A loop that
+  hardcodes `main` will fail on those two
