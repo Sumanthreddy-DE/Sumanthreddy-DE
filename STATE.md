@@ -61,8 +61,9 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
   and the profile README's stats cards are served from a Vercel deployment tied to it
 
 ## Resume here
-`git fetch` FIRST (repo drifts via browser edits). Then Phase 7 pins and the sidebar fields once
-the token has the `user` scope.
+`git fetch` FIRST (repo drifts via browser edits). The sweep is complete and its plan is in
+docs/exec-plans/completed/. Push any pending local commits, then the next real item is adding the
+compiled thesis PDF to the Master-Thesis repo, which currently ships only main.tex.
 
 ## Landmines
 - Edited outside CC (browser) between sessions — ALWAYS fetch + check @{u}..HEAD before committing
