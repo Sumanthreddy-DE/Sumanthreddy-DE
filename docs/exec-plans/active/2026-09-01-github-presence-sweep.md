@@ -387,3 +387,56 @@ Open issues recorded there, to settle in its own session:
 - **Phase ordering matters.** Phase 4 (descriptions and topics) delivers the most
   recruiter impact per minute. If the session is cut short, Phases 0, 1, 2, and 4
   are the ones that must be finished.
+
+---
+
+## Execution record, 2026-09-01
+
+Baseline of all 37 repos captured before any change, at
+`scratchpad/baseline-2026-09-01.json` (session-scoped; regenerate with
+`gh repo list Sumanthreddy-DE --limit 100 --json name,visibility,isArchived,isFork,description,repositoryTopics,diskUsage,pushedAt`).
+
+### Deviations from the plan as written
+
+- **Public surface is 18, not 16.** `github-readme-stats` cannot be made private: GitHub does not
+  permit visibility changes on forks, and the profile README's stats cards are served from a
+  Vercel deployment tied to that fork, so deleting it would break two images. The user chose to
+  keep `Sumanthreddy-DE.github.io` public and rewrite it rather than hide it. 15 keepers plus
+  `Production-Engineering-Data-Automation` plus those two equals 18.
+- **The Pages repo was not empty.** GitHub Pages was live, serving "Wannabe Computational
+  Material Scientist" and linking three coursework repos. It was rewritten into a real summary
+  and left unarchived so it stays editable.
+- **The topic vocabulary was extended** by `electron`, `playwright`, `github-actions`, `llm`,
+  `web-scraping`, `nlp`. Without them the three shipped tools could draw at most two words from
+  the engineering-only list, breaking the plan's own 3-to-6 topic rule.
+- **Descriptions were already better than the audit suggested.** Only
+  `Feed-Forward-Neural-Network` among the keepers lacked one. The real gap was topics, which
+  every repo lacked.
+- **`Export-NX-CAD-files-to-CREO`'s description was factually wrong.** It advertised batch export
+  to a Creo format; the script exports one hardcoded part to STEP AP214. Corrected.
+- **Account sidebar fields could not be set.** `gh api -X PATCH user` needs the `user` token
+  scope. Run `gh auth refresh -h github.com -s user` first.
+
+### Reversal
+
+Restore any repo made private on 2026-09-01 (all nine are archived, so unarchive first):
+
+```
+gh repo unarchive Sumanthreddy-DE/<name> --yes
+gh repo edit Sumanthreddy-DE/<name> --visibility public --accept-visibility-change-consequences
+gh repo archive Sumanthreddy-DE/<name> --yes
+```
+
+Applies to: `The-Dumpster-App`, `sprachlog`, `nxopen-cad-extractor`, `Solidity`,
+`My-Resume-Template`, `Streamlit-project`, `DSSS`, `ML-project`, `AI-Intro`.
+
+Remove topics from a repo:
+
+```
+gh repo edit Sumanthreddy-DE/<name> --remove-topic <topic>
+```
+
+Revert a README or license commit: each change is a single commit in its own repository, so
+`git revert <sha>` on that repo is sufficient. `Feed-Forward-Neural-Network` and
+`Sumanthreddy-DE.github.io` were unarchived during the sweep; the former was re-archived, the
+latter deliberately left unarchived.
