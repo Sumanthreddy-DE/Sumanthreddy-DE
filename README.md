@@ -10,10 +10,10 @@
 
 ### About Me
 
-- 🎓 MSc Computational Engineering, **FAU Erlangen-Nürnberg**
+- 🎓 MSc Computational Engineering, **FAU Erlangen-Nürnberg**, completed **August 2026**
 - 🔬 Building **SimReady** (AI-assisted FEA pre-processing) and **Physics-Informed Neural Networks** for composite material interfaces (thesis area)
 - 🛠️ Also ship AI & automation tooling : **cortex**, **anny-booking-bot**
-- 📍 Open to **Scientific ML / Computational Engineer (Berechnung)** roles in DACH, available from **June 2026**
+- 📍 Open to **Scientific ML / Computational Engineer (Berechnung)** roles in DACH, available **immediately**
 - 🌱 When not building, just weebing
 
 ---
@@ -53,7 +53,7 @@
   <br><sub>AI-assisted FEA pre-processing: STEP geometry-quality analysis, safe healing, and rule + ML readiness reports (terminal / JSON / HTML).</sub>
 
 - **[Predicting Bulk Modulus of Inorganic Crystals](https://github.com/Sumanthreddy-DE/Predicting-the-Bulk-Modulus-of-Inorganic-Crystals)**
-  <br><sub>ML prediction of inorganic-crystal bulk modulus — Matminer/Magpie features, regression + feature-selection model comparison (scikit-learn).</sub>
+  <br><sub>ML prediction of inorganic-crystal bulk modulus: Matminer/Magpie features, regression + feature-selection model comparison (scikit-learn).</sub>
 
 - **[Peak Power Minimization](https://github.com/Sumanthreddy-DE/Peak-Power-Minimization)**
   <br><sub>Optimization under multiple harmonic loads.</sub>
@@ -64,7 +64,7 @@
 **🤖 AI & Automation**
 
 - **[cortex](https://github.com/Sumanthreddy-DE/cortex)**
-  <br><sub>Local-first desktop app: priority-Kanban link/idea capture, Chrome extension, Telegram capture, and system-tray reminders.</sub>
+  <br><sub>Local-first desktop app: priority-Kanban link/idea capture, Chrome extension, Discord capture, and system-tray reminders.</sub>
 
 - **[ai-eng-tracker](https://github.com/Sumanthreddy-DE/ai-eng-tracker)**
   <br><sub>Automated weekly newsletter digest + AI/ML hiring & funding intel scraper across Europe.</sub>
