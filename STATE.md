@@ -38,8 +38,9 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
 - Nothing in progress
 
 ## Pipeline
-- Pin the six repos (Phase 7 of the sweep plan, awaiting the user's pick between the balanced
-  and pure-Berechnung sets)
+- Set the six pins in the browser (github.com/Sumanthreddy-DE, Customize your pins). Chosen set,
+  balanced: PINN-for-composite-interface-identification, simready, Master-Thesis,
+  NX-Constraints-training, cortex, ai-eng-tracker. GitHub exposes no CLI or API for pinning
 - Account sidebar fields (name, bio, location, blog) still unset: the `gh` token lacks the `user`
   scope. Run `gh auth refresh -h github.com -s user`, then apply
 - Email KTmfk to confirm publishing the two Hiwi repos is acceptable. Until answered, hold the
