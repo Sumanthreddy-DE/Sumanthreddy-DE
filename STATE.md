@@ -33,14 +33,23 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
   - MIT LICENSE added to cortex, ai-eng-tracker, anny-booking-bot
   - sumanthreddy-de.github.io rewritten from a placeholder page ("Wannabe Computational Material
     Scientist") into a real summary, and left unarchived so it stays editable
+  - Six pins set in the browser: PINN-for-composite-interface-identification, simready, cortex,
+    Predicting-the-Bulk-Modulus-of-Inorganic-Crystals, Peak-Power-Minimization, anny-booking-bot.
+    This departs from the balanced set in the plan: Master-Thesis was dropped because the repo
+    has no compiled PDF, and NX-Constraints-training because KTmfk clearance is still open
+  - Account sidebar set: name, bio, location and blog now match the CV
+  - sumanthreddy.settipalli@gmail.com added and verified on the account, which retroactively
+    attributed the commits made under it during this session
 
 ## Doing
 - Nothing in progress
 
 ## Pipeline
-- Set the six pins in the browser (github.com/Sumanthreddy-DE, Customize your pins). Chosen set,
-  balanced: PINN-for-composite-interface-identification, simready, Master-Thesis,
-  NX-Constraints-training, cortex, ai-eng-tracker. GitHub exposes no CLI or API for pinning
+- Add the compiled thesis PDF to the Master-Thesis repo. It holds main.tex (206 KB), figures and
+  logos but no PDF, so a reader has to compile LaTeX to read the thesis. This is why it was left
+  unpinned. Adding the PDF makes the repo useful whether pinned or not
+- Pin NX-Constraints-training once KTmfk clears publication. It has the strongest README of the
+  Hiwi work and is directly on-target for DACH Berechnung roles, but the clearance is open
 - Account sidebar fields (name, bio, location, blog) still unset: the `gh` token lacks the `user`
   scope. Run `gh auth refresh -h github.com -s user`, then apply
 - Email KTmfk to confirm publishing the two Hiwi repos (NX-Constraints-training,
