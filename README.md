@@ -14,7 +14,7 @@
 - 🔬 Building **SimReady** (AI-assisted FEA pre-processing) and **Physics-Informed Neural Networks** for composite material interfaces (thesis area)
 - 🛠️ Also ship AI & automation tooling : **cortex**, **anny-booking-bot**
 - 📍 Open to **Scientific ML / Computational Engineer (Berechnung)** roles in DACH, available **immediately**
-- 🌱 When not building, just weebing
+- 🌱 When not building, I'm deep in anime and manga
 
 ---
 

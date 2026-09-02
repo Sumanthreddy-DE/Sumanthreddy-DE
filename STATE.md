@@ -50,8 +50,6 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
   unpinned. Adding the PDF makes the repo useful whether pinned or not
 - Pin NX-Constraints-training once KTmfk clears publication. It has the strongest README of the
   Hiwi work and is directly on-target for DACH Berechnung roles, but the clearance is open
-- Account sidebar fields (name, bio, location, blog) still unset: the `gh` token lacks the `user`
-  scope. Run `gh auth refresh -h github.com -s user`, then apply
 - Email KTmfk to confirm publishing the two Hiwi repos (NX-Constraints-training,
   Export-NX-CAD-files-to-CREO) is acceptable. Deferred by the user on 2026-09-01; the plan
   advised holding the NX-Constraints-training pin until answered, but the user chose the
