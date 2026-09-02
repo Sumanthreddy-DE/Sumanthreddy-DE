@@ -40,14 +40,25 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
   - Account sidebar set: name, bio, location and blog now match the CV
   - sumanthreddy.settipalli@gmail.com added and verified on the account, which retroactively
     attributed the commits made under it during this session
+- Gap-closure pass (2026-09-01, verified independently):
+  - Profile repo topics fixed: `config` + `github-config` replaced with `profile-readme`,
+    `computational-engineering`, `scientific-ml`
+  - `cortex` repo description corrected to "Discord capture" (the README had been fixed
+    during the sweep, the description had not)
+  - Profile README hobby line reworded from "just weebing" to "I'm deep in anime and manga"
+  - Stale Pipeline entry claiming the account sidebar fields were unset deleted; the fields
+    were already set and the API confirms it
+  - `ai-eng-tracker` local clone pulled back in sync with `origin/master`
+  - `Settipalli-MSc-Thesis-FAU-2026.pdf` (2.29 MB) added to the Master-Thesis repo, which
+    previously shipped only `main.tex`
 
 ## Doing
 - Nothing in progress
 
 ## Pipeline
-- Add the compiled thesis PDF to the Master-Thesis repo. It holds main.tex (206 KB), figures and
-  logos but no PDF, so a reader has to compile LaTeX to read the thesis. This is why it was left
-  unpinned. Adding the PDF makes the repo useful whether pinned or not
+- Reconsider pinning Master-Thesis. It was left unpinned only because the repo shipped no
+  compiled PDF; that reason is gone as of 2026-09-01. Pinning it would mean dropping one of
+  the current six
 - Pin NX-Constraints-training once KTmfk clears publication. It has the strongest README of the
   Hiwi work and is directly on-target for DACH Berechnung roles, but the clearance is open
 - Email KTmfk to confirm publishing the two Hiwi repos (NX-Constraints-training,
@@ -59,9 +70,23 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
   and the profile README's stats cards are served from a Vercel deployment tied to it
 
 ## Resume here
-`git fetch` FIRST (repo drifts via browser edits). The sweep is complete and its plan is in
-docs/exec-plans/completed/. Push any pending local commits, then the next real item is adding the
-compiled thesis PDF to the Master-Thesis repo, which currently ships only main.tex.
+`git fetch` FIRST (repo drifts via browser edits). The sweep is complete, verified, and its
+plan is in docs/exec-plans/completed/. Every gap found by the closing verification is closed and
+the thesis PDF is published, so nothing is half-done.
+
+Two things gate the remaining Pipeline items, and both are decisions rather than work: whether
+to email KTmfk about the two Hiwi repos, and whether Master-Thesis now displaces one of the six
+pins. Neither is urgent.
+
+Verification one-liners, if you want to confirm the surface is still clean:
+
+```
+gh repo list Sumanthreddy-DE --limit 100 --json visibility --jq '[.[]|select(.visibility=="PUBLIC")]|length'
+gh repo list Sumanthreddy-DE --limit 100 --json name,visibility,description,repositoryTopics --jq '.[]|select(.visibility=="PUBLIC" and (((.description//"")|length)==0 or ((.repositoryTopics//[])|length)==0))|.name'
+```
+
+Expect **18** and only `Production-Engineering-Data-Automation` (out of scope) plus
+`github-readme-stats` (a fork, topics cannot be set usefully).
 
 ## Landmines
 - Edited outside CC (browser) between sessions — ALWAYS fetch + check @{u}..HEAD before committing
