@@ -55,28 +55,36 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
 ## Doing
 - Nothing in progress
 
+## Settled — do not reopen
+
+Closed by the user on 2026-09-01. Recorded here so no future session re-raises them as
+open questions.
+
+- **KTmfk clearance: resolved, no email needed.** The user already spoke to the contact at
+  KTmfk in person. Publishing `NX-Constraints-training` and `Export-NX-CAD-files-to-CREO`
+  publicly is fine, including `Constraint_dataset.xlsx`. Both stay public. The pin gate that
+  depended on this clearance is therefore removed; whether to actually pin
+  `NX-Constraints-training` is a free choice, not a blocked one.
+- **Master-Thesis stays unpinned, PDF or no PDF.** The user considered it after the PDF
+  shipped and decided it does not earn a slot. The compiled PDF still made the repo worth
+  publishing on its own. Do not re-propose this.
+- **`Production-Engineering-Data-Automation`: ignore entirely.** Not a task, not a risk item,
+  not a question. Do not raise it again in any form.
+- **`github-readme-stats` stays public.** It is a fork, GitHub does not permit making a public
+  fork of a public repository private, and the profile README's stats cards are served from a
+  Vercel deployment tied to it. Removing it would mean deleting the fork and repointing Vercel.
+
 ## Pipeline
-- Reconsider pinning Master-Thesis. It was left unpinned only because the repo shipped no
-  compiled PDF; that reason is gone as of 2026-09-01. Pinning it would mean dropping one of
-  the current six
-- Pin NX-Constraints-training once KTmfk clears publication. It has the strongest README of the
-  Hiwi work and is directly on-target for DACH Berechnung roles, but the clearance is open
-- Email KTmfk to confirm publishing the two Hiwi repos (NX-Constraints-training,
-  Export-NX-CAD-files-to-CREO) is acceptable. Deferred by the user on 2026-09-01; the plan
-  advised holding the NX-Constraints-training pin until answered, but the user chose the
-  balanced pin set including it, accepting the risk knowingly. Both repos were already public
-  before this session, so the sweep did not increase exposure
-- github-readme-stats stays public: it is a fork, GitHub does not allow forks to be made private,
-  and the profile README's stats cards are served from a Vercel deployment tied to it
+- Nothing open. The next piece of work here is the Ask-My-GitHub site, which is a separate
+  project rather than a presence-sweep item: `Projects/_ideas/ask-my-github-site.md`
 
 ## Resume here
 `git fetch` FIRST (repo drifts via browser edits). The sweep is complete, verified, and its
 plan is in docs/exec-plans/completed/. Every gap found by the closing verification is closed and
 the thesis PDF is published, so nothing is half-done.
 
-Two things gate the remaining Pipeline items, and both are decisions rather than work: whether
-to email KTmfk about the two Hiwi repos, and whether Master-Thesis now displaces one of the six
-pins. Neither is urgent.
+Nothing is open. Every decision that was pending on 2026-09-01 was settled by the user the
+same day; see "Settled — do not reopen" above before proposing any of them again.
 
 Verification one-liners, if you want to confirm the surface is still clean:
 
