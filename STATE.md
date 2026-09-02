@@ -3,7 +3,7 @@
 <!-- Machine-maintained by save-session Step 6b. Do not hand-edit. -->
 
 Status: active
-Last touched: 2026-09-01
+Last touched: 2026-09-02
 
 ## What
 The GitHub public presence as a whole, not just one README. Covers the profile README repo
@@ -104,9 +104,13 @@ Expect **18** and only `Production-Engineering-Data-Automation` (out of scope) p
 - Archived repos reject every setting change including visibility. Unarchive, change, re-archive
 - Production-Engineering-Data-Automation is deliberately out of scope by user decision and still
   serves another person's named code publicly
-- Seven repos (NX-Constraints-training, Export-NX-CAD-files-to-CREO,
-  Topology-Optimization-of-a-Reservoir, ai-eng-tracker, anny-booking-bot, Master-Thesis,
-  Sumanthreddy-DE.github.io) have NO local clone under Projects/. The 2026-09-01 commits were
-  made in session-temp scratchpad clones that are now gone. Clone fresh before editing them
+- Most of the seven repos listed below have NO local clone under Projects/, so the 2026-09-01
+  commits were made in session-temp scratchpad clones that are now gone. Clone fresh before
+  editing: NX-Constraints-training, Export-NX-CAD-files-to-CREO,
+  Topology-Optimization-of-a-Reservoir, anny-booking-bot, Sumanthreddy-DE.github.io.
+  TWO EXCEPTIONS, both verified 2026-09-02: Master-Thesis is cloned at
+  `~/Desktop/Docs/Job/Thesis/Thesis_Final/Master-Thesis` (under Thesis/, not Projects/, which is
+  why it was missed) and ai-eng-tracker at `~/Desktop/Docs/Job/Projects/ai-eng-tracker`. Use
+  those, do not re-clone them
 - ai-eng-tracker and anny-booking-bot default to branch `master`, not `main`. A loop that
   hardcodes `main` will fail on those two
