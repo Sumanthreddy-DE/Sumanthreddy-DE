@@ -13,6 +13,7 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
 `docs/exec-plans/active/2026-09-01-github-presence-sweep.md`.
 
 ## Done
+- 2026-10-07: local clone archived to `Projects/_archive/Sumanthreddy-DE/` (done, nothing open). The profile README stays live on GitHub; clone again to edit, and fetch first
 - Recruiter-POV profile rewrite: hybrid positioning, current projects, stats (2026-05-26/27)
 - Featured anny-booking-bot; Topology-Opt → Bulk-Modulus swap in Computational column (2026-05-28)
 - 12 old repos archived, Hiwi/coursework descriptions, Master-Thesis link live
@@ -110,7 +111,7 @@ Expect **18** and only `Production-Engineering-Data-Automation` (out of scope) p
   Topology-Optimization-of-a-Reservoir, anny-booking-bot, Sumanthreddy-DE.github.io.
   TWO EXCEPTIONS, both verified 2026-09-02: Master-Thesis is cloned at
   `~/Desktop/Docs/Job/Thesis/Thesis_Final/Master-Thesis` (under Thesis/, not Projects/, which is
-  why it was missed) and ai-eng-tracker at `~/Desktop/Docs/Job/Projects/ai-eng-tracker`. Use
+  why it was missed) and ai-eng-tracker at `~/Desktop/Docs/Job/Projects/_archive/ai-eng-tracker` (archived 2026-10-07). Use
   those, do not re-clone them
 - ai-eng-tracker and anny-booking-bot default to branch `master`, not `main`. A loop that
   hardcodes `main` will fail on those two
