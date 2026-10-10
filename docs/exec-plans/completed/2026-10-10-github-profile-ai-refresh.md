@@ -1,6 +1,6 @@
 # GitHub profile refresh: hybrid positioning and AI tooling
 
-**Status:** active
+**Status:** done
 **Last verified:** 2026-10-10
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:executing-plans (or superpowers:subagent-driven-development) to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
