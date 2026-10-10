@@ -3,7 +3,7 @@
 <!-- Machine-maintained by save-session Step 6b. Do not hand-edit. -->
 
 Status: active
-Last touched: 2026-09-02
+Last touched: 2026-10-10
 
 ## What
 The GitHub public presence as a whole, not just one README. Covers the profile README repo
@@ -13,6 +13,7 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
 `docs/exec-plans/active/2026-09-01-github-presence-sweep.md`.
 
 ## Done
+- 2026-10-10: folder moved back from `_archive/` (registry repointed). Repo audit + hand-off plan for the profile refresh: hybrid positioning, AI-tool badges, new bio, 6 pins, resume-assistant MIT, SimReady session files untracked. Plan: `docs/exec-plans/active/2026-10-10-github-profile-ai-refresh.md`
 - 2026-10-07: local clone archived to `Projects/_archive/Sumanthreddy-DE/` (done, nothing open). The profile README stays live on GitHub; clone again to edit, and fetch first
 - Recruiter-POV profile rewrite: hybrid positioning, current projects, stats (2026-05-26/27)
 - Featured anny-booking-bot; Topology-Opt → Bulk-Modulus swap in Computational column (2026-05-28)
@@ -54,7 +55,7 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
     previously shipped only `main.tex`
 
 ## Doing
-- Nothing in progress
+- Profile AI refresh: plan written and committed (`4cae703`), not executed yet
 
 ## Settled — do not reopen
 
@@ -80,22 +81,9 @@ open questions.
   project rather than a presence-sweep item: `Projects/_ideas/ask-my-github-site.md`
 
 ## Resume here
-`git fetch` FIRST (repo drifts via browser edits). The sweep is complete, verified, and its
-plan is in docs/exec-plans/completed/. Every gap found by the closing verification is closed and
-the thesis PDF is published, so nothing is half-done.
-
-Nothing is open. Every decision that was pending on 2026-09-01 was settled by the user the
-same day; see "Settled — do not reopen" above before proposing any of them again.
-
-Verification one-liners, if you want to confirm the surface is still clean:
-
-```
-gh repo list Sumanthreddy-DE --limit 100 --json visibility --jq '[.[]|select(.visibility=="PUBLIC")]|length'
-gh repo list Sumanthreddy-DE --limit 100 --json name,visibility,description,repositoryTopics --jq '.[]|select(.visibility=="PUBLIC" and (((.description//"")|length)==0 or ((.repositoryTopics//[])|length)==0))|.name'
-```
-
-Expect **18** and only `Production-Engineering-Data-Automation` (out of scope) plus
-`github-readme-stats` (a fork, topics cannot be set usefully).
+`git fetch` FIRST (repo drifts via browser edits). Then execute `docs/exec-plans/active/2026-10-10-github-profile-ai-refresh.md`
+task by task. All decisions are in the plan; do not re-ask them. Task 6 (pins) is a browser step for the user.
+Open question for the user: archive the ai-eng-tracker repo, or only drop it from the README.
 
 ## Landmines
 - Edited outside CC (browser) between sessions — ALWAYS fetch + check @{u}..HEAD before committing
