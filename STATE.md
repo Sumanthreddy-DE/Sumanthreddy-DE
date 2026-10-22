@@ -13,6 +13,7 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
 `docs/exec-plans/active/2026-09-01-github-presence-sweep.md`.
 
 ## Done
+- 2026-10-10: profile AI refresh executed fully (plan closed, `docs/exec-plans/completed/2026-10-10-github-profile-ai-refresh.md`): README rewritten (hybrid positioning, 21 badges), bio, topics (resume-assistant/simready/self-talk-coach), profile-repo description, resume-assistant MIT license, SimReady session dumps untracked from public repo (backups in `Projects/_archive/SimReady-sessions-2026-04/`, still in git history — S2 in SimReady backlog), pins set (5 public; anny-booking-bot unpinnable, archived+private). BACKLOG.md created (ai-eng-tracker archive decision)
 - 2026-10-10: folder moved back from `_archive/` (registry repointed). Repo audit + hand-off plan for the profile refresh: hybrid positioning, AI-tool badges, new bio, 6 pins, resume-assistant MIT, SimReady session files untracked. Plan: `docs/exec-plans/active/2026-10-10-github-profile-ai-refresh.md`
 - 2026-10-07: local clone archived to `Projects/_archive/Sumanthreddy-DE/` (done, nothing open). The profile README stays live on GitHub; clone again to edit, and fetch first
 - Recruiter-POV profile rewrite: hybrid positioning, current projects, stats (2026-05-26/27)
@@ -55,7 +56,7 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
     previously shipped only `main.tex`
 
 ## Doing
-- Profile AI refresh: plan written and committed (`4cae703`), not executed yet
+- Nothing open. Two deferred decisions live in BACKLOG.md (SimReady history purge → SimReady's backlog; ai-eng-tracker archive).
 
 ## Settled — do not reopen
 
@@ -77,13 +78,11 @@ open questions.
   Vercel deployment tied to it. Removing it would mean deleting the fork and repointing Vercel.
 
 ## Pipeline
-- Nothing open. The next piece of work here is the Ask-My-GitHub site, which is a separate
-  project rather than a presence-sweep item: `Projects/_ideas/ask-my-github-site.md`
+- ~~Nothing open. The next piece of work here is the Ask-My-GitHub site, which is a separate
+  project rather than a presence-sweep item: `Projects/_ideas/ask-my-github-site.md`~~
 
 ## Resume here
-`git fetch` FIRST (repo drifts via browser edits). Then execute `docs/exec-plans/active/2026-10-10-github-profile-ai-refresh.md`
-task by task. All decisions are in the plan; do not re-ask them. Task 6 (pins) is a browser step for the user.
-Open question for the user: archive the ai-eng-tracker repo, or only drop it from the README.
+Nothing pending. Optional next: the two BACKLOG.md items (ai-eng-tracker archive decision here; SimReady session-dump history purge lives in SimReady's backlog).
 
 ## Landmines
 - Edited outside CC (browser) between sessions — ALWAYS fetch + check @{u}..HEAD before committing
