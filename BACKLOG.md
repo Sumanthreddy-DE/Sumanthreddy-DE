@@ -3,7 +3,7 @@
 Living list of open issues for the GitHub public-presence repo.
 Severity: S1 blocker, S2 UX gap / deferred decision, S3 tech debt.
 
-`Last swept: 2026-10-10`
+`Last swept: 2026-11-18`
 
 ## Open — S1 (blocker)
 
@@ -11,11 +11,15 @@ _(none)_
 
 ## Open — S2 (UX gap, deferred decisions)
 
-- [ ] **S2 · ai-eng-tracker-archive-decision** — `ai-eng-tracker` was dropped from the profile README (2026-10-10 refresh) but the public repo itself is still live and unarchived. Decide: archive it (matches its stalled status) or leave it unarchived-but-unfeatured. *(found 2026-10-10, profile AI refresh session)*
+_(none)_
 
 ## Open — S3 (tech debt)
 
 _(none)_
+
+## Parked
+
+- [ ] **S2 · ai-eng-tracker-archive-decision** [parked · you] — `ai-eng-tracker` was dropped from the profile README (2026-10-10 refresh) but the public repo itself is still live and unarchived. Decide: archive it (matches its stalled status) or leave it unarchived-but-unfeatured. *(found 2026-10-10, profile AI refresh session)*
 
 ## Doing
 
