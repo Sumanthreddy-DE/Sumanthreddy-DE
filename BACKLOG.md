@@ -19,11 +19,13 @@ _(none)_
 
 ## Parked
 
-- [ ] **S2 · ai-eng-tracker-archive-decision** [parked · you] — `ai-eng-tracker` was dropped from the profile README (2026-10-10 refresh) but the public repo itself is still live and unarchived. Decide: archive it (matches its stalled status) or leave it unarchived-but-unfeatured. *(found 2026-10-10, profile AI refresh session)*
-
 ## Doing
 
 _(none)_
+
+## Archived — triage 2026-11-19
+
+- [x] *dropped, triage 2026-11-19* — **S2 · ai-eng-tracker-archive-decision** [parked · you] — `ai-eng-tracker` was dropped from the profile README (2026-10-10 refresh) but the public repo itself is still live and unarchived. Decide: archive it (matches its stalled status) or leave it unarchived-but-unfeatured. *(found 2026-10-10, profile AI refresh session)*
 
 ## Done this session
 
