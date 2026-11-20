@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="32" viewBox="0 0 116 32" role="img" aria-label="Website">
+  <rect width="116" height="32" rx="5" fill="#7957d5"/>
+  <g transform="translate(12 7)" fill="none" stroke="#ffffff" stroke-width="1.5">
+    <circle cx="9" cy="9" r="8"/>
+    <ellipse cx="9" cy="9" rx="3.5" ry="8"/>
+    <path d="M1 9h16M3 4.5h12M3 13.5h12"/>
+  </g>
+  <text x="39" y="21" fill="#ffffff" font-family="Segoe UI, Ubuntu, Helvetica Neue, sans-serif" font-size="14" font-weight="600">Website</text>
+</svg>

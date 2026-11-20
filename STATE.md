@@ -3,7 +3,7 @@
 <!-- Machine-maintained by save-session Step 6b. Do not hand-edit. -->
 
 Status: active
-Last touched: 2026-10-10
+Last touched: 2026-11-20
 
 ## What
 The GitHub public presence as a whole, not just one README. Covers the profile README repo
@@ -56,7 +56,7 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
     previously shipped only `main.tex`
 
 ## Doing
-- Nothing open. Two deferred decisions live in BACKLOG.md (SimReady history purge → SimReady's backlog; ai-eng-tracker archive).
+- Profile refresh follow-up: completed local visual polish saved; latest Connect-with-me/whoami/profile-view-counter requests pending. Sidebar bio update blocked by missing GitHub user scope.
 
 ## Settled — do not reopen
 
@@ -78,11 +78,13 @@ open questions.
   Vercel deployment tied to it. Removing it would mean deleting the fork and repointing Vercel.
 
 ## Pipeline
-- Profile refresh (2026-11-20): selected option B with matching light cards. Local README and static milestone/activity SVGs applied; GitHub publication pending. Milestone states user-reported 1B+ tokens in November 2026, subscriptions excluded; cache accounting unspecified.
+- Profile refresh (2026-11-20): option B with matching light cards published in f83e702. Follow-up local edits reduce card scaling, use single-color 1B+, remove duplicate activity chart in favor of GitHub's native calendar, and restore Connect badges. Sidebar bio update to "Building simulation tools and AI agents." blocked: gh token lacks user scope; previous bio backed up in /tmp/opencode/github-profile-bio-before-polish.json. Milestone states user-reported 1B+ tokens in November 2026, subscriptions excluded; cache accounting unspecified.
 - ~~Nothing open. The next piece of work here is the Ask-My-GitHub site, which is a separate
   project rather than a presence-sweep item: `Projects/_ideas/ask-my-github-site.md`~~
 
 ## Resume here
+Finish the latest README requests: rename Connect to "Connect with me", remove based_in and use compact motto/team/focus entries, add profile views near Connect, clarify "text tag" versus Tech Stack, and distinguish the user's remaining-chart complaint from unpublished local edits. Completed polish is saved in this session commit; bio remains blocked by gh user scope. Handoff: harness/sessions/Sumanthreddy-DE/2026-11-20-profile-refresh-session.tmp
+
 Nothing pending. Optional next: the two BACKLOG.md items (ai-eng-tracker archive decision here; SimReady session-dump history purge lives in SimReady's backlog).
 
 ## Landmines

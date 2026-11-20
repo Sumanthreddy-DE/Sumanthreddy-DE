@@ -4,7 +4,7 @@
   <g font-family="Segoe UI, Ubuntu, Helvetica Neue, sans-serif">
     <rect x="1" y="1" width="798" height="208" rx="12" fill="#0d1117" stroke="#30363d"/>
     <text x="30" y="39" font-size="14" letter-spacing="2" font-weight="600" fill="#b69af7">PERSONAL MILESTONE</text>
-    <text x="30" y="127" font-size="82" font-weight="750" letter-spacing="-4" fill="#b69af7">1B<tspan fill="#ff6b8a">+</tspan></text>
+    <text x="30" y="127" font-size="82" font-weight="750" letter-spacing="-4" fill="#b69af7">1B+</text>
     <text x="246" y="101" font-size="25" font-weight="600" fill="#e6edf3">LLM tokens used</text>
     <text x="248" y="132" font-size="15" fill="#9da7b3">November 2026</text>
     <path d="M30 158H770" stroke="#30363d"/>
