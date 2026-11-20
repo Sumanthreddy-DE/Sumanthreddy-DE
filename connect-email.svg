@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="101" height="32" viewBox="0 0 101 32" role="img" aria-label="Email">
-  <rect width="101" height="32" rx="5" fill="#7957d5"/>
+  <rect width="101" height="32" rx="5" fill="#c5221f"/>
   <g transform="translate(12 8)" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round">
     <rect x="0" y="1" width="19" height="14" rx="2"/>
     <path d="m1 3 8.5 6L18 3"/>
