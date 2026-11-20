@@ -4,10 +4,9 @@
 
 ```python
 sumanth = {
-    "based_in": "Reutlingen, Germany",
-    "building": [
-        "simulation tools", "AI agents"
-    ],
+    "motto": "Ship it. Open-source it. Move on.",
+    "team": "All employees are AI.",
+    "focus": "AI agents that actually do things",
     "off_screen": ["anime", "manga"],
 }
 ```
@@ -22,6 +21,10 @@ sumanth = {
 - **[SimReady](https://github.com/Sumanthreddy-DE/simready)** · CAD checks before simulation.
 - **[resume-assistant](https://github.com/Sumanthreddy-DE/resume-assistant)** · A chatbot for my CV, with evals.
 - **[self-talk-coach](https://github.com/Sumanthreddy-DE/self-talk-coach)** · Spoken German practice from the terminal.
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-7957d5?style=flat-square&logo=python&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-7957d5?style=flat-square)
 
 ### GitHub, lately
 
@@ -39,10 +42,12 @@ sumanth = {
   <img src="https://streak-stats.demolab.com/?user=Sumanthreddy-DE&amp;background=ffffff&amp;border=e4e2e2&amp;stroke=e4e2e2&amp;ring=7957d5&amp;fire=ff3860&amp;currStreakNum=363636&amp;sideNums=363636&amp;currStreakLabel=7957d5&amp;sideLabels=7957d5&amp;dates=686868&amp;hide_border=true&amp;disable_animations=true" alt="Total contributions, current streak and longest streak" width="495" />
 </picture>
 
-### Connect
+### Connect with me
 
 <p>
-  <a href="https://sumanthreddy.de"><img src="./connect-website.svg" alt="Website" width="116" height="32" /></a>
   <a href="https://www.linkedin.com/in/sumanthreddys"><img src="./connect-linkedin.svg" alt="LinkedIn" width="121" height="32" /></a>
+  <a href="https://sumanthreddy.de"><img src="./connect-website.svg" alt="Website" width="116" height="32" /></a>
   <a href="mailto:sumanthreddy.settipalli@gmail.com"><img src="./connect-email.svg" alt="Email" width="101" height="32" /></a>
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=Sumanthreddy-DE&style=flat-square&color=7957d5&label=Profile+views)
