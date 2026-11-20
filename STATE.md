@@ -56,7 +56,7 @@ sumanthreddy-de.github.io. Managed with the `gh` CLI, tracked in
     previously shipped only `main.tex`
 
 ## Doing
-- Profile refinements completed and committed through ad2efde; publication of the latest centred eight-badge stack awaits remote verification. Sidebar bio already updated per live API check.
+- Profile refinements through ad2efde are published; origin/main additionally has d0c52cf (user reordered whoami). Local save commit needs reconciliation with that remote edit before pushing. Sidebar bio already updated per live API check.
 
 ## Settled — do not reopen
 
@@ -83,7 +83,7 @@ open questions.
   project rather than a presence-sweep item: `Projects/_ideas/ask-my-github-site.md`~~
 
 ## Resume here
-Verify whether origin/main contains ad2efde; if absent, the user publishes from the VPS, then fetch and confirm divergence 0 0 and the live centred eight-badge Tech Stack. No further profile edits requested. Earlier pending-counter/bio-blocker notes below are superseded by this session; the counter was deliberately removed and the shorter bio was already live. Handoff: harness/sessions/Sumanthreddy-DE/2026-11-20-profile-stack-polish-session.tmp
+Reconcile the local save commits with origin/main d0c52cf before publishing; preserve the user's reordered whoami. Fetch during save confirmed ad2efde is already published, with local/remote divergence 1/1 before this follow-up save. After user publication, fetch and confirm divergence 0 0. No further profile edits requested; earlier pending-counter/bio-blocker notes are superseded. Handoff: harness/sessions/Sumanthreddy-DE/2026-11-20-profile-stack-polish-session.tmp
 
 Finish the latest README requests: rename Connect to "Connect with me", remove based_in and use compact motto/team/focus entries, add profile views near Connect, clarify "text tag" versus Tech Stack, and distinguish the user's remaining-chart complaint from unpublished local edits. Completed polish is saved in this session commit; bio remains blocked by gh user scope. Handoff: harness/sessions/Sumanthreddy-DE/2026-11-20-profile-refresh-session.tmp
 
