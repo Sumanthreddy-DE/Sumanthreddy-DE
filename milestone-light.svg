@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210" role="img" aria-labelledby="title desc">
+  <title id="title">One billion LLM tokens</title>
+  <desc id="desc">Personal milestone: over one billion LLM tokens used in November 2026, excluding subscription usage.</desc>
+  <g font-family="Segoe UI, Ubuntu, Helvetica Neue, sans-serif">
+    <rect x="1" y="1" width="798" height="208" rx="12" fill="#ffffff" stroke="#e4e2e2"/>
+    <text x="30" y="39" font-size="14" letter-spacing="2" font-weight="600" fill="#7957d5">PERSONAL MILESTONE</text>
+    <text x="30" y="127" font-size="82" font-weight="750" letter-spacing="-4" fill="#7957d5">1B<tspan fill="#ff3860">+</tspan></text>
+    <text x="246" y="101" font-size="25" font-weight="600" fill="#363636">LLM tokens used</text>
+    <text x="248" y="132" font-size="15" fill="#686868">November 2026</text>
+    <path d="M30 158H770" stroke="#e4e2e2"/>
+    <circle cx="36" cy="183" r="4" fill="#ff3860"/>
+    <text x="50" y="188" font-size="13" fill="#686868">Subscription usage excluded</text>
+    <text x="770" y="188" text-anchor="end" font-size="13" fill="#686868">Sumanth Reddy</text>
+    <g transform="translate(690 50)" fill="none" stroke="#ff3860" stroke-width="2">
+      <rect width="62" height="62" rx="14" fill="#f4efff" stroke="none"/>
+      <path d="m15 23 9 8-9 8m16 0h15" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

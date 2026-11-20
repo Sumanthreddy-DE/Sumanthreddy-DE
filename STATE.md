@@ -78,6 +78,7 @@ open questions.
   Vercel deployment tied to it. Removing it would mean deleting the fork and repointing Vercel.
 
 ## Pipeline
+- Profile refresh (2026-11-20): selected option B with matching light cards. Local README and static milestone/activity SVGs applied; GitHub publication pending. Milestone states user-reported 1B+ tokens in November 2026, subscriptions excluded; cache accounting unspecified.
 - ~~Nothing open. The next piece of work here is the Ask-My-GitHub site, which is a separate
   project rather than a presence-sweep item: `Projects/_ideas/ask-my-github-site.md`~~
 
