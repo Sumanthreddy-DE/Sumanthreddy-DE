@@ -4,9 +4,9 @@
 
 ```python
 sumanth = {
-    "motto": "Ship it. Open-source it. Move on.",
-    "team": "All employees are AI.",
     "focus": "AI agents that actually do things",
+    "team": "All employees are AI.",
+    "motto": "Ship it. Open-source it. Move on.",
     "off_screen": ["anime", "manga"],
 }
 ```
